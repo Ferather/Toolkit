@@ -1,4 +1,0 @@
-<source type="gen_xmltv" channels="http://linuxsat-support.com/virgin-epg/epg/VirginUK.channels.xml.gz">
-	<description>UK/Ireland - Virgin Media</description>
-	<url>http://linuxsat-support.com/virgin-epg/epg/vermin.xml.gz</url>
-</source>
