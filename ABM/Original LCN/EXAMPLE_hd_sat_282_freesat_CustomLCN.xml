@@ -1,0 +1,164 @@
+<custom>
+	<include>yes</include>
+	<lcnlist>
+		<configuration lcn="101" channelnumber="101" description="BBC One Lon"></configuration>
+		<configuration lcn="102" channelnumber="102" description="BBC Two HD"></configuration>
+		<configuration lcn="103" channelnumber="103" description="ITV London"></configuration>
+		<configuration lcn="104" channelnumber="104" description="Channel 4"></configuration>
+		<configuration lcn="105" channelnumber="105" description="Channel 5 HD"></configuration>
+		<configuration lcn="106" channelnumber="106" description="BBC One HD"></configuration>
+		<configuration lcn="107" channelnumber="107" description="BBC Four HD"></configuration>
+		<configuration lcn="108" channelnumber="108" description="BBC Two Eng"></configuration>
+		<configuration lcn="109" channelnumber="109" description="BBC ALBA"></configuration>
+		<configuration lcn="110" channelnumber="110" description="BBC Four"></configuration>
+		<configuration lcn="111" channelnumber="111" description="ITV London HD"></configuration>
+		<configuration lcn="112" channelnumber="112" description="ITV +1 London"></configuration>
+		<configuration lcn="113" channelnumber="113" description="ITV2"></configuration>
+		<configuration lcn="114" channelnumber="114" description="ITV2+1"></configuration>
+		<configuration lcn="115" channelnumber="115" description="ITV3"></configuration>
+		<configuration lcn="116" channelnumber="116" description="ITV3+1"></configuration>
+		<configuration lcn="117" channelnumber="117" description="ITV4"></configuration>
+		<configuration lcn="118" channelnumber="118" description="ITVBe"></configuration>
+		<configuration lcn="119" channelnumber="119" description="ITVBe+1"></configuration>
+		<configuration lcn="120" channelnumber="120" description="S4C HD"></configuration>
+		<configuration lcn="121" channelnumber="121" description="Channel 4 + 1"></configuration>
+		<configuration lcn="122" channelnumber="122" description="E4"></configuration>
+		<configuration lcn="123" channelnumber="123" description="E4 + 1"></configuration>
+		<configuration lcn="124" channelnumber="124" description="More4"></configuration>
+		<configuration lcn="125" channelnumber="125" description="More4 + 1"></configuration>
+		<configuration lcn="127" channelnumber="127" description="4seven"></configuration>
+		<configuration lcn="128" channelnumber="128" description="Channel 5 +1"></configuration>
+		<configuration lcn="129" channelnumber="129" description="5 USA"></configuration>
+		<configuration lcn="130" channelnumber="130" description="5 USA +1"></configuration>
+		<configuration lcn="131" channelnumber="131" description="5STAR"></configuration>
+		<configuration lcn="133" channelnumber="133" description="5SELECT"></configuration>
+		<configuration lcn="134" channelnumber="134" description="CBS Drama"></configuration>
+		<configuration lcn="135" channelnumber="135" description="CBS Reality"></configuration>
+		<configuration lcn="136" channelnumber="136" description="CBS Reality +1"></configuration>
+		<configuration lcn="137" channelnumber="137" description="CBS Action"></configuration>
+		<configuration lcn="138" channelnumber="138" description="horror channel"></configuration>
+		<configuration lcn="139" channelnumber="139" description="horror ch+1"></configuration>
+		<configuration lcn="140" channelnumber="140" description="BET"></configuration>
+		<configuration lcn="141" channelnumber="141" description="5Spike"></configuration>
+		<configuration lcn="142" channelnumber="142" description="True Ent"></configuration>
+		<configuration lcn="143" channelnumber="143" description="Sony Crime"></configuration>
+		<configuration lcn="144" channelnumber="144" description="Pick"></configuration>
+		<configuration lcn="145" channelnumber="145" description="Pick +1"></configuration>
+		<configuration lcn="146" channelnumber="146" description="Challenge"></configuration>
+		<configuration lcn="147" channelnumber="147" description="Challenge +1"></configuration>
+		<configuration lcn="148" channelnumber="148" description="Food Network"></configuration>
+		<configuration lcn="149" channelnumber="149" description="Food Network+1"></configuration>
+		<configuration lcn="150" channelnumber="150" description="Travel Channel"></configuration>
+		<configuration lcn="151" channelnumber="151" description="Travel Ch +1"></configuration>
+		<configuration lcn="152" channelnumber="152" description="True Ent+1"></configuration>
+		<configuration lcn="153" channelnumber="153" description="truTV"></configuration>
+		<configuration lcn="154" channelnumber="154" description="ITV4+1"></configuration>
+		<configuration lcn="155" channelnumber="155" description="PBS America"></configuration>
+		<configuration lcn="156" channelnumber="156" description="YourTV"></configuration>
+		<configuration lcn="157" channelnumber="157" description="Dave"></configuration>
+		<configuration lcn="158" channelnumber="158" description="Drama"></configuration>
+		<configuration lcn="159" channelnumber="159" description="Yesterday"></configuration>
+		<configuration lcn="160" channelnumber="160" description="Really"></configuration>
+		<configuration lcn="161" channelnumber="161" description="SHOWCASE"></configuration>
+		<configuration lcn="162" channelnumber="162" description="BLAZE"></configuration>
+		<configuration lcn="164" channelnumber="164" description="Together"></configuration>
+		<configuration lcn="165" channelnumber="165" description="Forces TV"></configuration>
+		<configuration lcn="166" channelnumber="166" description="Home"></configuration>
+		<configuration lcn="167" channelnumber="167" description="QUEST"></configuration>
+		<configuration lcn="168" channelnumber="168" description="QUEST +1"></configuration>
+		<configuration lcn="169" channelnumber="169" description="QUEST RED"></configuration>
+		<configuration lcn="170" channelnumber="170" description="QUEST RED +1"></configuration>
+		<configuration lcn="171" channelnumber="171" description="YANGA!"></configuration>
+		<configuration lcn="200" channelnumber="200" description="BBC NEWS HD"></configuration>
+		<configuration lcn="201" channelnumber="201" description="BBC Parliament"></configuration>
+		<configuration lcn="202" channelnumber="202" description="Sky News"></configuration>
+		<configuration lcn="203" channelnumber="203" description="Al Jazeera Eng"></configuration>
+		<configuration lcn="205" channelnumber="205" description="France 24"></configuration>
+		<configuration lcn="206" channelnumber="206" description="RT HD"></configuration>
+		<configuration lcn="207" channelnumber="207" description="CNN"></configuration>
+		<configuration lcn="208" channelnumber="208" description="Bloomberg TV"></configuration>
+		<configuration lcn="209" channelnumber="209" description="NHKWORLD-JAPAN"></configuration>
+		<configuration lcn="210" channelnumber="210" description="CNBC"></configuration>
+		<configuration lcn="211" channelnumber="211" description="CGTN"></configuration>
+		<configuration lcn="212" channelnumber="212" description="BBC NEWS"></configuration>
+		<configuration lcn="213" channelnumber="213" description="CHANNELS24"></configuration>
+		<configuration lcn="214" channelnumber="214" description="Arirang TV HD"></configuration>
+		<configuration lcn="215" channelnumber="215" description="TRT World"></configuration>
+		<configuration lcn="250" channelnumber="250" description="Front Runner"></configuration>
+		<configuration lcn="252" channelnumber="252" description="FreeSports"></configuration>
+		<configuration lcn="253" channelnumber="253" description="motorsport.tv"></configuration>
+		<configuration lcn="300" channelnumber="300" description="Film4"></configuration>
+		<configuration lcn="301" channelnumber="301" description="Film4 + 1"></configuration>
+		<configuration lcn="302" channelnumber="302" description="True Movies"></configuration>
+		<configuration lcn="303" channelnumber="303" description="True Movies +1"></configuration>
+		<configuration lcn="304" channelnumber="304" description="Movies4Men"></configuration>
+		<configuration lcn="305" channelnumber="305" description="Movies4Men+1"></configuration>
+		<configuration lcn="306" channelnumber="306" description="TalkingPics TV"></configuration>
+		<configuration lcn="500" channelnumber="500" description="Chart Show TV"></configuration>
+		<configuration lcn="501" channelnumber="501" description="The Vault"></configuration>
+		<configuration lcn="502" channelnumber="502" description="SCUZZ"></configuration>
+		<configuration lcn="504" channelnumber="504" description="Starz TV"></configuration>
+		<configuration lcn="505" channelnumber="505" description="Vintage TV"></configuration>
+		<configuration lcn="506" channelnumber="506" description="Heart TV"></configuration>
+		<configuration lcn="507" channelnumber="507" description="CAPITAL TV"></configuration>
+		<configuration lcn="516" channelnumber="516" description="KEEPITCOUNTRY"></configuration>
+		<configuration lcn="600" channelnumber="600" description="CBBC HD"></configuration>
+		<configuration lcn="601" channelnumber="601" description="CBeebies HD"></configuration>
+		<configuration lcn="602" channelnumber="602" description="CITV"></configuration>
+		<configuration lcn="603" channelnumber="603" description="POP"></configuration>
+		<configuration lcn="604" channelnumber="604" description="POP Max"></configuration>
+		<configuration lcn="605" channelnumber="605" description="Tiny Pop"></configuration>
+		<configuration lcn="606" channelnumber="606" description="POP+1"></configuration>
+		<configuration lcn="607" channelnumber="607" description="CBBC"></configuration>
+		<configuration lcn="608" channelnumber="608" description="CBeebies"></configuration>
+		<configuration lcn="609" channelnumber="609" description="Tiny Pop +1"></configuration>
+		<configuration lcn="690" channelnumber="690" description="Inspiration TV"></configuration>
+		<configuration lcn="691" channelnumber="691" description="DAYSTAR HD"></configuration>
+		<configuration lcn="692" channelnumber="692" description="Revelation"></configuration>
+		<configuration lcn="694" channelnumber="694" description="GOD Channel"></configuration>
+		<configuration lcn="695" channelnumber="695" description="Sonlife TV"></configuration>
+		<configuration lcn="800" channelnumber="800" description="QVC"></configuration>
+		<configuration lcn="801" channelnumber="801" description="QVC Beauty"></configuration>
+		<configuration lcn="802" channelnumber="802" description="QVC Extra"></configuration>
+		<configuration lcn="803" channelnumber="803" description="QVC Style"></configuration>
+		<configuration lcn="805" channelnumber="805" description="Gems TV"></configuration>
+		<configuration lcn="806" channelnumber="806" description="JML Direct"></configuration>
+		<configuration lcn="807" channelnumber="807" description="JewelleryMaker"></configuration>
+		<configuration lcn="809" channelnumber="809" description="TJC"></configuration>
+		<configuration lcn="812" channelnumber="812" description="Ideal World"></configuration>
+		<configuration lcn="813" channelnumber="813" description="Create + Craft"></configuration>
+		<configuration lcn="814" channelnumber="814" description="Rocks and Co1"></configuration>
+		<configuration lcn="817" channelnumber="817" description="Hochanda"></configuration>
+		<configuration lcn="950" channelnumber="950" description="BBC One Lon"></configuration>
+		<configuration lcn="951" channelnumber="951" description="BBC One CI"></configuration>
+		<configuration lcn="952" channelnumber="952" description="BBC One E Mid"></configuration>
+		<configuration lcn="953" channelnumber="953" description="BBC One East E"></configuration>
+		<configuration lcn="954" channelnumber="954" description="BBC One East W"></configuration>
+		<configuration lcn="955" channelnumber="955" description="BBC One N West"></configuration>
+		<configuration lcn="956" channelnumber="956" description="BBC One NE+C"></configuration>
+		<configuration lcn="957" channelnumber="957" description="BBC One NI"></configuration>
+		<configuration lcn="958" channelnumber="958" description="BBC One Oxford"></configuration>
+		<configuration lcn="959" channelnumber="959" description="BBC One S East"></configuration>
+		<configuration lcn="960" channelnumber="960" description="BBC One Scot"></configuration>
+		<configuration lcn="961" channelnumber="961" description="BBC One South"></configuration>
+		<configuration lcn="962" channelnumber="962" description="BBC One S West"></configuration>
+		<configuration lcn="963" channelnumber="963" description="BBC One W Mid"></configuration>
+		<configuration lcn="964" channelnumber="964" description="BBC One Wales"></configuration>
+		<configuration lcn="965" channelnumber="965" description="BBC One West"></configuration>
+		<configuration lcn="966" channelnumber="966" description="BBC One Yorks"></configuration>
+		<configuration lcn="967" channelnumber="967" description="BBC One Yk+Li"></configuration>
+		<configuration lcn="968" channelnumber="968" description="BBC Two Eng"></configuration>
+		<configuration lcn="969" channelnumber="969" description="BBC Two NI"></configuration>
+		<configuration lcn="970" channelnumber="970" description="BBC Two Scot"></configuration>
+		<configuration lcn="971" channelnumber="971" description="BBC Two Wales"></configuration>
+		<configuration lcn="972" channelnumber="972" description="BBC One HD"></configuration>
+		<configuration lcn="973" channelnumber="973" description="BBC One ScotHD"></configuration>
+		<configuration lcn="974" channelnumber="974" description="Channel 4"></configuration>
+		<configuration lcn="975" channelnumber="975" description="Channel 4 + 1"></configuration>
+		<configuration lcn="976" channelnumber="976" description="BBC One Wal HD"></configuration>
+		<configuration lcn="977" channelnumber="977" description="ITV London"></configuration>
+		<configuration lcn="978" channelnumber="978" description="BBC One NI HD"></configuration>
+		<configuration lcn="981" channelnumber="981" description="BBC RB 1"></configuration>
+		<configuration lcn="998" channelnumber="998" description="Freesat UHD"></configuration>
+	</lcnlist>
+</custom>
