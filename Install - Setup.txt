@@ -40,7 +40,7 @@ Delete bouquets and then scan.
 -EPG Importer-
 
 
-Files: rytec.sources.xml
+File: rytec.sources.xml
 
 
 Location: /etc/epgimport/
