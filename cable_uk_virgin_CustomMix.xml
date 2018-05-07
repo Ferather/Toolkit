@@ -137,12 +137,12 @@
 		<insert target="865" source="968" provider="sat_282_freesat"></insert> <!-- BBC Two England -->
 		
 		<insert target="126" source="105" provider="sat_282_sky_uk"></insert> <!-- Channel 5 -->
-		<insert target="181" source="128" provider="sat_282_sky_uk"></insert> <!-- 5STAR+1 -->
 		<insert target="312" source="139" provider="sat_282_sky_uk"></insert> <!-- 4Music -->
 		<insert target="208" source="181" provider="sat_282_sky_uk"></insert> <!-- Sony Crime 2 ** -->
 		<insert target="535" source="184" provider="sat_282_sky_uk"></insert> <!-- Horse & Country ** -->
 		<insert target="220" source="186" provider="sat_282_sky_uk"></insert> <!-- AMC ** -->
 		<insert target="292" source="189" provider="sat_282_sky_uk"></insert> <!-- Property Show ** -->
+		<insert target="181" source="228" provider="sat_282_sky_uk"></insert> <!-- 5STAR+1 -->
 		<insert target="186" source="250" provider="sat_282_sky_uk"></insert> <!-- 5Spike+1 ** -->
 		<insert target="212" source="280" provider="sat_282_sky_uk"></insert> <!-- TruTV+1 ** -->
 		<insert target="218" source="292" provider="sat_282_sky_uk"></insert> <!-- Showcase+1 ** -->
