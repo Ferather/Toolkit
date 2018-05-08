@@ -146,7 +146,7 @@
 		<insert target="186" source="250" provider="sat_282_sky_uk"></insert> <!-- 5Spike+1 ** -->
 		<insert target="212" source="280" provider="sat_282_sky_uk"></insert> <!-- TruTV+1 ** -->
 		<insert target="218" source="292" provider="sat_282_sky_uk"></insert> <!-- Showcase+1 ** -->
-		<insert target="822" source="327" provider="sat_282_sky_uk"></insert> <!-- Nollywood Movies -->
+		<insert target="821" source="327" provider="sat_282_sky_uk"></insert> <!-- Nollywood Movies -->
 		<insert target="309" source="358" provider="sat_282_sky_uk"></insert> <!-- Box Upfront -->
 		<insert target="310" source="359" provider="sat_282_sky_uk"></insert> <!-- The Box -->
 		<insert target="311" source="360" provider="sat_282_sky_uk"></insert> <!-- Box Hits -->
