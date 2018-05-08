@@ -105,7 +105,7 @@
 		<configuration lcn="202" channelnumber="215" description="Quest Red"></configuration>
 		<configuration lcn="204" channelnumber="184" description="BET"></configuration>
 		<configuration lcn="205" channelnumber="189" description="True Ent"></configuration>
-		<configuration lcn="207" channelnumber="193" description="Sony Crime Channel"></configuration>
+		<configuration lcn="207" channelnumber="193" description="Sony Crime"></configuration>
 		<configuration lcn="209" channelnumber="208" description="Lifetime"></configuration>
 		<configuration lcn="210" channelnumber="209" description="Lifetime HD"></configuration>
 		<configuration lcn="211" channelnumber="212" description="truTV"></configuration>
@@ -151,10 +151,10 @@
 		<configuration lcn="283" channelnumber="284" description="Home + Health"></configuration>
 		<configuration lcn="284" channelnumber="285" description="Home + Health +1"></configuration>
 		<configuration lcn="285" channelnumber="286" description="Discovery Shed"></configuration>
-		<configuration lcn="286" channelnumber="287" description="God Channel"></configuration>
-		<configuration lcn="287" channelnumber="290" description="GINX"></configuration>
-		<configuration lcn="288" channelnumber="291" description="Food Network"></configuration>
-		<configuration lcn="290" channelnumber="292" description="Travel Channel"></configuration>
+		<configuration lcn="286" channelnumber="290" description="GINX"></configuration>
+		<configuration lcn="287" channelnumber="291" description="Food Network"></configuration>
+		<configuration lcn="289" channelnumber="292" description="Travel Channel"></configuration>
+		<configuration lcn="292" channelnumber="287" description="God Channel"></configuration>
 		<!-- 300 -->
 		<configuration lcn="300" channelnumber="300" description="VM Music"></configuration>
 		<configuration lcn="301" channelnumber="310" description="MTV MUSIC"></configuration>
@@ -199,13 +199,13 @@
 		<configuration lcn="421" channelnumber="411" description="Sky ScFi + Hor HD"></configuration>
 		<configuration lcn="422" channelnumber="442" description="Sky Classic"></configuration>
 		<configuration lcn="423" channelnumber="412" description="Sky Classic HD"></configuration>
-		<configuration lcn="424" channelnumber="415" description="Turner Classic Movies"></configuration>
+		<configuration lcn="424" channelnumber="415" description="TCM"></configuration>
 		<configuration lcn="425" channelnumber="416" description="TCM HD"></configuration>
 		<configuration lcn="426" channelnumber="417" description="TCM +1"></configuration>
 		<configuration lcn="427" channelnumber="419" description="Movies 24"></configuration>
 		<configuration lcn="428" channelnumber="420" description="Movies 24+"></configuration>
 		<configuration lcn="429" channelnumber="424" description="True Movies"></configuration>
-		<configuration lcn="431" channelnumber="425" description="Sony Movie Channel"></configuration>
+		<configuration lcn="431" channelnumber="425" description="Sony Movies"></configuration>
 		<configuration lcn="432" channelnumber="426" description="Movies4Men"></configuration>
 		<configuration lcn="434" channelnumber="428" description="Film4"></configuration>
 		<configuration lcn="435" channelnumber="429" description="Film4 HD"></configuration>
@@ -241,7 +241,7 @@
 		<configuration lcn="527" channelnumber="535" description="At The Races"></configuration>
 		<configuration lcn="528" channelnumber="536" description="Racing UK"></configuration>
 		<configuration lcn="529" channelnumber="544" description="Liverpool FC TV"></configuration>
-		<configuration lcn="530" channelnumber="545" description="Motorsport.tv"></configuration>
+		<configuration lcn="530" channelnumber="545" description="Motorsport TV"></configuration>
 		<configuration lcn="531" channelnumber="546" description="Box Nation"></configuration>
 		<configuration lcn="532" channelnumber="551" description="Premier Sports"></configuration>
 		<!-- 601 -->
@@ -255,9 +255,9 @@
 		<configuration lcn="610" channelnumber="613" description="CNBC"></configuration>
 		<configuration lcn="611" channelnumber="620" description="Euronews"></configuration>
 		<configuration lcn="612" channelnumber="621" description="NDTV 24x7"></configuration>
-		<configuration lcn="613" channelnumber="622" description="Al Jazeera English"></configuration>
+		<configuration lcn="613" channelnumber="622" description="Al Jazeera EN"></configuration>
 		<configuration lcn="615" channelnumber="624" description="France 24 (EN)"></configuration>
-		<configuration lcn="616" channelnumber="625" description="NHK World-Japan"></configuration>
+		<configuration lcn="616" channelnumber="625" description="NHK World"></configuration>
 		<!-- 700 -->
 		<configuration lcn="700" channelnumber="700" description="Virgin TV Kids"></configuration>
 		<configuration lcn="701" channelnumber="701" description="CBBC Channel"></configuration>
@@ -313,7 +313,7 @@
 		<configuration lcn="815" channelnumber="826" description="COLORS"></configuration>
 		<configuration lcn="816" channelnumber="827" description="Rishtey Europe"></configuration>
 		<configuration lcn="817" channelnumber="828" description="Rishtey Cineplex"></configuration>
-		<configuration lcn="818" channelnumber="831" description="Al Jazeera Arabic"></configuration>
+		<configuration lcn="818" channelnumber="831" description="Al Jazeera AR"></configuration>
 		<configuration lcn="819" channelnumber="832" description="France 24 (FR) HD"></configuration>
 		<configuration lcn="820" channelnumber="833" description="HUM EUROPE"></configuration>
 		<configuration lcn="821" channelnumber="835" description="Nollywood Movies"></configuration>
