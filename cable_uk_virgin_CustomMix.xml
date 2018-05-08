@@ -46,10 +46,10 @@
 		<insert target="138" source="145" provider="sat_282_freesat"></insert> <!-- Pick+1 ** -->
 		<insert target="164" source="146" provider="sat_282_freesat"></insert> <!-- Challenge -->
 		<insert target="165" source="147" provider="sat_282_freesat"></insert> <!-- Challenge+1 -->
-		<insert target="288" source="148" provider="sat_282_freesat"></insert> <!-- Food Network -->
-		<insert target="289" source="149" provider="sat_282_freesat"></insert> <!-- Food Network+1 ** -->
-		<insert target="290" source="150" provider="sat_282_freesat"></insert> <!-- Travel Channel -->
-		<insert target="291" source="151" provider="sat_282_freesat"></insert> <!-- Travel Channel+1 ** -->
+		<insert target="287" source="148" provider="sat_282_freesat"></insert> <!-- Food Network -->
+		<insert target="288" source="149" provider="sat_282_freesat"></insert> <!-- Food Network+1 ** -->
+		<insert target="289" source="150" provider="sat_282_freesat"></insert> <!-- Travel Channel -->
+		<insert target="290" source="151" provider="sat_282_freesat"></insert> <!-- Travel Channel+1 ** -->
 		<insert target="206" source="152" provider="sat_282_freesat"></insert> <!-- True Entertainment+1 ** -->
 		<insert target="211" source="153" provider="sat_282_freesat"></insert> <!-- truTV -->
 		<insert target="119" source="154" provider="sat_282_freesat"></insert> <!-- ITV4+1 -->
@@ -112,11 +112,11 @@
 		<insert target="701" source="607" provider="sat_282_freesat"></insert> <!-- CBBC -->
 		<insert target="703" source="608" provider="sat_282_freesat"></insert> <!-- CBeebies -->
 		<insert target="730" source="609" provider="sat_282_freesat"></insert> <!-- Tiny Pop+1 ** -->
-		<insert target="830" source="690" provider="sat_282_freesat"></insert> <!-- Inspiration TV ** -->
-		<insert target="831" source="691" provider="sat_282_freesat"></insert> <!-- Daystar HD ** -->
-		<insert target="832" source="692" provider="sat_282_freesat"></insert> <!-- Revelation ** -->
-		<insert target="286" source="694" provider="sat_282_freesat"></insert> <!-- GOD Channel -->
-		<insert target="833" source="695" provider="sat_282_freesat"></insert> <!-- Sonlife TV ** -->
+		<insert target="293" source="690" provider="sat_282_freesat"></insert> <!-- Inspiration TV ** -->
+		<insert target="294" source="691" provider="sat_282_freesat"></insert> <!-- Daystar HD ** -->
+		<insert target="295" source="692" provider="sat_282_freesat"></insert> <!-- Revelation ** -->
+		<insert target="292" source="694" provider="sat_282_freesat"></insert> <!-- God Channel -->
+		<insert target="296" source="695" provider="sat_282_freesat"></insert> <!-- Sonlife TV ** -->
 		<insert target="740" source="800" provider="sat_282_freesat"></insert> <!-- QVC -->
 		<insert target="741" source="801" provider="sat_282_freesat"></insert> <!-- QVC Beauty -->
 		<insert target="743" source="802" provider="sat_282_freesat"></insert> <!-- QVC Extra ** -->
