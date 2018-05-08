@@ -1,4 +1,4 @@
-<!-- DATE 06052018 -->
+<!-- DATE 08052018 -->
 <custom>
 	<include>yes</include>
 	<lcnlist>
@@ -104,7 +104,7 @@
 		<configuration lcn="201" channelnumber="173" description="Quest +1"></configuration>
 		<configuration lcn="202" channelnumber="215" description="Quest Red"></configuration>
 		<configuration lcn="204" channelnumber="184" description="BET"></configuration>
-		<configuration lcn="205" channelnumber="189" description="True Entertainment"></configuration>
+		<configuration lcn="205" channelnumber="189" description="True Ent"></configuration>
 		<configuration lcn="207" channelnumber="193" description="Sony Crime Channel"></configuration>
 		<configuration lcn="209" channelnumber="208" description="Lifetime"></configuration>
 		<configuration lcn="210" channelnumber="209" description="Lifetime HD"></configuration>
@@ -256,7 +256,7 @@
 		<configuration lcn="611" channelnumber="620" description="Euronews"></configuration>
 		<configuration lcn="612" channelnumber="621" description="NDTV 24x7"></configuration>
 		<configuration lcn="613" channelnumber="622" description="Al Jazeera English"></configuration>
-		<configuration lcn="615" channelnumber="624" description="France24 (English)"></configuration>
+		<configuration lcn="615" channelnumber="624" description="France 24 (EN)"></configuration>
 		<configuration lcn="616" channelnumber="625" description="NHK World-Japan"></configuration>
 		<!-- 700 -->
 		<configuration lcn="700" channelnumber="700" description="Virgin TV Kids"></configuration>
@@ -269,17 +269,17 @@
 		<configuration lcn="707" channelnumber="732" description="Cartoon Network HD"></configuration>
 		<configuration lcn="708" channelnumber="705" description="Cartoon Network +1"></configuration>
 		<configuration lcn="709" channelnumber="706" description="Cartoonito"></configuration>
-		<configuration lcn="710" channelnumber="708" description="Marvel Avengers Chnl"></configuration>
-		<configuration lcn="711" channelnumber="712" description="Nickelodeon"></configuration>
-		<configuration lcn="712" channelnumber="714" description="Nick HD"></configuration>
-		<configuration lcn="713" channelnumber="713" description="Nick +1"></configuration>
-		<configuration lcn="714" channelnumber="715" description="Nick Junior"></configuration>
-		<configuration lcn="715" channelnumber="716" description="Nick Jr Too"></configuration>
-		<configuration lcn="716" channelnumber="717" description="Nicktoons"></configuration>
-		<configuration lcn="717" channelnumber="724" description="Disney Channel"></configuration>
-		<configuration lcn="718" channelnumber="707" description="Disney XD"></configuration>
-		<configuration lcn="719" channelnumber="725" description="Disney Channel +1"></configuration>
-		<configuration lcn="720" channelnumber="727" description="Disney Junior"></configuration>
+		<configuration lcn="710" channelnumber="712" description="Nickelodeon"></configuration>
+		<configuration lcn="711" channelnumber="714" description="Nick HD"></configuration>
+		<configuration lcn="712" channelnumber="713" description="Nick +1"></configuration>
+		<configuration lcn="713" channelnumber="715" description="Nick Junior"></configuration>
+		<configuration lcn="714" channelnumber="716" description="Nick Jr Too"></configuration>
+		<configuration lcn="715" channelnumber="717" description="Nicktoons"></configuration>
+		<configuration lcn="716" channelnumber="724" description="Disney Channel"></configuration>
+		<configuration lcn="717" channelnumber="725" description="Disney Channel +1"></configuration>
+		<configuration lcn="718" channelnumber="727" description="Disney Junior"></configuration>
+		<configuration lcn="719" channelnumber="707" description="Disney XD"></configuration>
+		<configuration lcn="720" channelnumber="708" description="Disney XD +1"></configuration>
 		<configuration lcn="721" channelnumber="730" description="Boomerang"></configuration>
 		<configuration lcn="722" channelnumber="731" description="Boomerang +1"></configuration>
 		<configuration lcn="723" channelnumber="734" description="CITV"></configuration>
@@ -315,15 +315,16 @@
 		<configuration lcn="817" channelnumber="828" description="Rishtey Cineplex"></configuration>
 		<configuration lcn="818" channelnumber="829" description="NDTV Good Times"></configuration>
 		<configuration lcn="819" channelnumber="831" description="Al Jazeera Arabic"></configuration>
-		<configuration lcn="820" channelnumber="833" description="HUM EUROPE"></configuration>
-		<configuration lcn="821" channelnumber="835" description="Nollywood Movies"></configuration>
-		<configuration lcn="822" channelnumber="836" description="NDTV India"></configuration>
-		<configuration lcn="823" channelnumber="837" description="NDTV Spice"></configuration>
-		<configuration lcn="824" channelnumber="838" description="Islam Channel English"></configuration>
-		<configuration lcn="825" channelnumber="839" description="Islam Channel Urdu"></configuration>
-		<configuration lcn="826" channelnumber="840" description="Brit Asia TV"></configuration>
-		<configuration lcn="827" channelnumber="841" description="MTV Beats"></configuration>
-		<configuration lcn="828" channelnumber="842" description="ABN TV"></configuration>
+		<configuration lcn="820" channelnumber="832" description="France 24 (FR) HD"></configuration>
+		<configuration lcn="821" channelnumber="833" description="HUM EUROPE"></configuration>
+		<configuration lcn="822" channelnumber="835" description="Nollywood Movies"></configuration>
+		<configuration lcn="823" channelnumber="836" description="NDTV India"></configuration>
+		<configuration lcn="824" channelnumber="837" description="NDTV Spice"></configuration>
+		<configuration lcn="825" channelnumber="838" description="Islam Channel English"></configuration>
+		<configuration lcn="826" channelnumber="839" description="Islam Channel Urdu"></configuration>
+		<configuration lcn="827" channelnumber="840" description="Brit Asia TV"></configuration>
+		<configuration lcn="828" channelnumber="841" description="MTV Beats"></configuration>
+		<configuration lcn="829" channelnumber="842" description="ABN TV"></configuration>
 		<!-- 851 -->
 		<configuration lcn="851" channelnumber="851" description="BBC ONE AD"></configuration>
 		<configuration lcn="852" channelnumber="852" description="BBC TWO AD"></configuration>
@@ -339,16 +340,16 @@
 		<configuration lcn="865" channelnumber="865" description="BBC TWO England"></configuration>
 		<!-- 969 -->
 		<configuration lcn="969" channelnumber="969" description="Adult Previews"></configuration>
-		<configuration lcn="970" channelnumber="970" description="Television X Nightly"></configuration>
-		<configuration lcn="971" channelnumber="971" description="Playboy TV Nightly"></configuration>
-		<configuration lcn="972" channelnumber="972" description="Adult Channel Nightly"></configuration>
-		<configuration lcn="973" channelnumber="973" description="XXX Brits"></configuration>
-		<configuration lcn="974" channelnumber="974" description="Xrated 40+ Nightly"></configuration>
-		<configuration lcn="975" channelnumber="975" description="TVX Pornstars"></configuration>
-		<configuration lcn="976" channelnumber="976" description="Television X 2"></configuration>
-		<configuration lcn="977" channelnumber="978" description="Television X"></configuration>
-		<configuration lcn="978" channelnumber="979" description="Playboy"></configuration>
-		<configuration lcn="979" channelnumber="980" description="Adult Channel"></configuration>
+		<configuration lcn="970" channelnumber="980" description="Adult Channel"></configuration>
+		<configuration lcn="971" channelnumber="972" description="Adult Channel Nightly"></configuration>
+		<configuration lcn="972" channelnumber="978" description="Television X"></configuration>
+		<configuration lcn="973" channelnumber="976" description="Television X 2"></configuration>
+		<configuration lcn="974" channelnumber="970" description="Television X Nightly"></configuration>
+		<configuration lcn="975" channelnumber="979" description="Playboy"></configuration>
+		<configuration lcn="976" channelnumber="971" description="Playboy TV Nightly"></configuration>
+		<configuration lcn="977" channelnumber="973" description="XXX Brits"></configuration>
+		<configuration lcn="978" channelnumber="974" description="Xrated 40+ Nightly"></configuration>
+		<configuration lcn="979" channelnumber="975" description="TVX Pornstars"></configuration>
 		<configuration lcn="980" channelnumber="981" description="Babenation"></configuration>
 		<!-- 990 -->
 		<configuration lcn="990" channelnumber="990" description="BBC Red Button HD"></configuration>
