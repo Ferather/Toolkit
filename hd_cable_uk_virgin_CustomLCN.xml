@@ -304,24 +304,24 @@
 		<configuration lcn="806" channelnumber="807" description="SONY SAB"></configuration>
 		<configuration lcn="807" channelnumber="809" description="Zee TV"></configuration>
 		<configuration lcn="808" channelnumber="810" description="Zee Cinema"></configuration>
-		<configuration lcn="809" channelnumber="811" description="+TV"></configuration>
-		<configuration lcn="810" channelnumber="812" description="Zee Punjabi"></configuration>
-		<configuration lcn="811" channelnumber="813" description="Zing"></configuration>
-		<configuration lcn="812" channelnumber="815" description="B4U Movies"></configuration>
-		<configuration lcn="813" channelnumber="816" description="B4U Music"></configuration>
-		<configuration lcn="814" channelnumber="825" description="TV5"></configuration>
+		<configuration lcn="809" channelnumber="812" description="Zee Punjabi"></configuration>
+		<configuration lcn="810" channelnumber="813" description="Zing"></configuration>
+		<configuration lcn="811" channelnumber="815" description="B4U Movies"></configuration>
+		<configuration lcn="812" channelnumber="816" description="B4U Music"></configuration>
+		<configuration lcn="813" channelnumber="825" description="TV5"></configuration>
+		<configuration lcn="814" channelnumber="811" description="+TV"></configuration>
 		<configuration lcn="815" channelnumber="826" description="COLORS"></configuration>
 		<configuration lcn="816" channelnumber="827" description="Rishtey Europe"></configuration>
 		<configuration lcn="817" channelnumber="828" description="Rishtey Cineplex"></configuration>
-		<configuration lcn="818" channelnumber="829" description="NDTV Good Times"></configuration>
-		<configuration lcn="819" channelnumber="831" description="Al Jazeera Arabic"></configuration>
-		<configuration lcn="820" channelnumber="832" description="France 24 (FR) HD"></configuration>
-		<configuration lcn="821" channelnumber="833" description="HUM EUROPE"></configuration>
-		<configuration lcn="822" channelnumber="835" description="Nollywood Movies"></configuration>
+		<configuration lcn="818" channelnumber="831" description="Al Jazeera Arabic"></configuration>
+		<configuration lcn="819" channelnumber="832" description="France 24 (FR) HD"></configuration>
+		<configuration lcn="820" channelnumber="833" description="HUM EUROPE"></configuration>
+		<configuration lcn="821" channelnumber="835" description="Nollywood Movies"></configuration>
+		<configuration lcn="822" channelnumber="829" description="NDTV Good Times"></configuration>
 		<configuration lcn="823" channelnumber="836" description="NDTV India"></configuration>
 		<configuration lcn="824" channelnumber="837" description="NDTV Spice"></configuration>
-		<configuration lcn="825" channelnumber="838" description="Islam Channel English"></configuration>
-		<configuration lcn="826" channelnumber="839" description="Islam Channel Urdu"></configuration>
+		<configuration lcn="825" channelnumber="838" description="Islam Channel EN"></configuration>
+		<configuration lcn="826" channelnumber="839" description="Islam Channel UR"></configuration>
 		<configuration lcn="827" channelnumber="840" description="Brit Asia TV"></configuration>
 		<configuration lcn="828" channelnumber="841" description="MTV Beats"></configuration>
 		<configuration lcn="829" channelnumber="842" description="ABN TV"></configuration>
