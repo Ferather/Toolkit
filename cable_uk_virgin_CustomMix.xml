@@ -1,4 +1,4 @@
-<!-- DATE 06052018 -->
+<!-- DATE 08052018 -->
 <custommix>
 	<inserts>
 		<insert target="101" source="101" provider="sat_282_freesat"></insert> <!-- BBC One -->
@@ -112,11 +112,11 @@
 		<insert target="701" source="607" provider="sat_282_freesat"></insert> <!-- CBBC -->
 		<insert target="703" source="608" provider="sat_282_freesat"></insert> <!-- CBeebies -->
 		<insert target="730" source="609" provider="sat_282_freesat"></insert> <!-- Tiny Pop+1 ** -->
-		<insert target="829" source="690" provider="sat_282_freesat"></insert> <!-- Inspiration TV ** -->
-		<insert target="830" source="691" provider="sat_282_freesat"></insert> <!-- Daystar HD ** -->
-		<insert target="831" source="692" provider="sat_282_freesat"></insert> <!-- Revelation ** -->
+		<insert target="830" source="690" provider="sat_282_freesat"></insert> <!-- Inspiration TV ** -->
+		<insert target="831" source="691" provider="sat_282_freesat"></insert> <!-- Daystar HD ** -->
+		<insert target="832" source="692" provider="sat_282_freesat"></insert> <!-- Revelation ** -->
 		<insert target="286" source="694" provider="sat_282_freesat"></insert> <!-- GOD Channel -->
-		<insert target="832" source="695" provider="sat_282_freesat"></insert> <!-- Sonlife TV ** -->
+		<insert target="833" source="695" provider="sat_282_freesat"></insert> <!-- Sonlife TV ** -->
 		<insert target="740" source="800" provider="sat_282_freesat"></insert> <!-- QVC -->
 		<insert target="741" source="801" provider="sat_282_freesat"></insert> <!-- QVC Beauty -->
 		<insert target="743" source="802" provider="sat_282_freesat"></insert> <!-- QVC Extra ** -->
@@ -146,7 +146,7 @@
 		<insert target="186" source="250" provider="sat_282_sky_uk"></insert> <!-- 5Spike+1 ** -->
 		<insert target="212" source="280" provider="sat_282_sky_uk"></insert> <!-- TruTV+1 ** -->
 		<insert target="218" source="292" provider="sat_282_sky_uk"></insert> <!-- Showcase+1 ** -->
-		<insert target="821" source="327" provider="sat_282_sky_uk"></insert> <!-- Nollywood Movies -->
+		<insert target="822" source="327" provider="sat_282_sky_uk"></insert> <!-- Nollywood Movies -->
 		<insert target="309" source="358" provider="sat_282_sky_uk"></insert> <!-- Box Upfront -->
 		<insert target="310" source="359" provider="sat_282_sky_uk"></insert> <!-- The Box -->
 		<insert target="311" source="360" provider="sat_282_sky_uk"></insert> <!-- Box Hits -->
@@ -179,8 +179,8 @@
 		<insert target="762" source="679" provider="sat_282_sky_uk"></insert> <!-- Thane ** -->
 		<insert target="747" source="684" provider="sat_282_sky_uk"></insert> <!-- Craft Extra ** -->
 		<insert target="763" source="687" provider="sat_282_sky_uk"></insert> <!-- Sewing Quarter ** -->
-		<insert target="824" source="727" provider="sat_282_sky_uk"></insert> <!-- Islam Channel -->
-		<insert target="826" source="743" provider="sat_282_sky_uk"></insert> <!-- Brit Asia TV -->
+		<insert target="825" source="727" provider="sat_282_sky_uk"></insert> <!-- Islam Channel -->
+		<insert target="827" source="743" provider="sat_282_sky_uk"></insert> <!-- Brit Asia TV -->
 		<insert target="124" source="804" provider="sat_282_sky_uk"></insert> <!-- Channel 4 HD -->
 	</inserts>
 </custommix>
