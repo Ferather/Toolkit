@@ -104,13 +104,13 @@
 		<configuration lcn="201" channelnumber="173" description="Quest +1"></configuration>
 		<configuration lcn="202" channelnumber="215" description="Quest Red"></configuration>
 		<configuration lcn="204" channelnumber="184" description="BET"></configuration>
-		<configuration lcn="205" channelnumber="189" description="True Ent"></configuration>
+		<configuration lcn="205" channelnumber="189" description="True Entertainment"></configuration>
 		<configuration lcn="207" channelnumber="193" description="Sony Crime"></configuration>
 		<configuration lcn="209" channelnumber="208" description="Lifetime"></configuration>
 		<configuration lcn="210" channelnumber="209" description="Lifetime HD"></configuration>
 		<configuration lcn="211" channelnumber="212" description="truTV"></configuration>
 		<configuration lcn="213" channelnumber="213" description="DMAX"></configuration>
-		<configuration lcn="214" channelnumber="214" description="DMAX + 1"></configuration>
+		<configuration lcn="214" channelnumber="214" description="DMAX +1"></configuration>
 		<configuration lcn="215" channelnumber="216" description="Blaze"></configuration>
 		<!-- 245 -->
 		<configuration lcn="245" channelnumber="245" description="YESTERDAY"></configuration>
@@ -199,9 +199,9 @@
 		<configuration lcn="421" channelnumber="411" description="Sky ScFi + Hor HD"></configuration>
 		<configuration lcn="422" channelnumber="442" description="Sky Classic"></configuration>
 		<configuration lcn="423" channelnumber="412" description="Sky Classic HD"></configuration>
-		<configuration lcn="424" channelnumber="415" description="TCM"></configuration>
-		<configuration lcn="425" channelnumber="416" description="TCM HD"></configuration>
-		<configuration lcn="426" channelnumber="417" description="TCM +1"></configuration>
+		<configuration lcn="424" channelnumber="415" description="Turner Classic Movies"></configuration>
+		<configuration lcn="425" channelnumber="416" description="Turner Classic Movies HD"></configuration>
+		<configuration lcn="426" channelnumber="417" description="Turner Classic Movies +1"></configuration>
 		<configuration lcn="427" channelnumber="419" description="Movies 24"></configuration>
 		<configuration lcn="428" channelnumber="420" description="Movies 24+"></configuration>
 		<configuration lcn="429" channelnumber="424" description="True Movies"></configuration>
@@ -255,8 +255,8 @@
 		<configuration lcn="610" channelnumber="613" description="CNBC"></configuration>
 		<configuration lcn="611" channelnumber="620" description="Euronews"></configuration>
 		<configuration lcn="612" channelnumber="621" description="NDTV 24x7"></configuration>
-		<configuration lcn="613" channelnumber="622" description="Al Jazeera EN"></configuration>
-		<configuration lcn="615" channelnumber="624" description="France 24 (EN)"></configuration>
+		<configuration lcn="613" channelnumber="622" description="Al Jazeera English"></configuration>
+		<configuration lcn="615" channelnumber="624" description="France 24 English"></configuration>
 		<configuration lcn="616" channelnumber="625" description="NHK World"></configuration>
 		<!-- 700 -->
 		<configuration lcn="700" channelnumber="700" description="Virgin TV Kids"></configuration>
@@ -313,18 +313,17 @@
 		<configuration lcn="815" channelnumber="826" description="COLORS"></configuration>
 		<configuration lcn="816" channelnumber="827" description="Rishtey Europe"></configuration>
 		<configuration lcn="817" channelnumber="828" description="Rishtey Cineplex"></configuration>
-		<configuration lcn="818" channelnumber="831" description="Al Jazeera AR"></configuration>
-		<configuration lcn="819" channelnumber="832" description="France 24 (FR) HD"></configuration>
+		<configuration lcn="818" channelnumber="831" description="Al Jazeera Arabic"></configuration>
+		<configuration lcn="819" channelnumber="832" description="France 24 (French) HD"></configuration>
 		<configuration lcn="820" channelnumber="833" description="HUM EUROPE"></configuration>
-		<configuration lcn="821" channelnumber="835" description="Nollywood Movies"></configuration>
-		<configuration lcn="822" channelnumber="829" description="NDTV Good Times"></configuration>
-		<configuration lcn="823" channelnumber="836" description="NDTV India"></configuration>
-		<configuration lcn="824" channelnumber="837" description="NDTV Spice"></configuration>
-		<configuration lcn="825" channelnumber="838" description="Islam Channel EN"></configuration>
-		<configuration lcn="826" channelnumber="839" description="Islam Channel UR"></configuration>
-		<configuration lcn="827" channelnumber="840" description="Brit Asia TV"></configuration>
-		<configuration lcn="828" channelnumber="841" description="MTV Beats"></configuration>
-		<configuration lcn="829" channelnumber="842" description="ABN TV"></configuration>
+		<configuration lcn="821" channelnumber="829" description="NDTV Good Times"></configuration>
+		<configuration lcn="822" channelnumber="836" description="NDTV India"></configuration>
+		<configuration lcn="823" channelnumber="837" description="NDTV Spice"></configuration>
+		<configuration lcn="824" channelnumber="838" description="Islam Channel English"></configuration>
+		<configuration lcn="825" channelnumber="839" description="Islam Channel Urdu"></configuration>
+		<configuration lcn="826" channelnumber="840" description="Brit Asia TV"></configuration>
+		<configuration lcn="827" channelnumber="841" description="MTV Beats"></configuration>
+		<configuration lcn="828" channelnumber="842" description="ABN TV"></configuration>
 		<!-- 851 -->
 		<configuration lcn="851" channelnumber="851" description="BBC ONE AD"></configuration>
 		<configuration lcn="852" channelnumber="852" description="BBC TWO AD"></configuration>
